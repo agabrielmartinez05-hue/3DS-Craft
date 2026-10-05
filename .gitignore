@@ -1,0 +1,8 @@
+/build/
+/build-host/
+/third_party/
+*.3dsx
+*.elf
+*.smdh
+*.cia
+*.map
